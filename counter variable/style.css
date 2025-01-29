@@ -1,0 +1,39 @@
+*{
+    margin:0;
+    border: 0;
+    box-sizing: border-box;
+}
+h1{
+    text-align: center;
+    padding-bottom: 10px;
+}
+.counterApp{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding:20px;
+    gap: 40px;
+}
+.counterApp button{
+    height:50px;
+    width:80px;
+    background-color: aquamarine;
+    cursor: pointer;
+
+}
+#counter-value{
+    height:50px;
+    width:80px;
+    text-align: center;  
+    background-color: chocolate; 
+    font-size: 2rem;
+}
+.reee{
+    position: relative;
+    left:46%;
+    height:50px;
+    width:80px;
+    background-color: aquamarine;
+    cursor: pointer;
+    
+}
